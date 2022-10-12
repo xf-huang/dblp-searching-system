@@ -1,0 +1,20 @@
+
+@article{DBLP:journals/cea/LiaoYZWW22,
+  author    = {Yumin Liao and
+               Ningmei Yu and
+               Guanglin Zhou and
+               Yinfeng Wu and
+               Chen Wang},
+  title     = {A wireless multi-channel low-cost lab-on-chip algae culture monitor
+               AIoT system for algae farm},
+  journal   = {arXiv preprint arXiv:193},
+  volume    = {193},
+  pages     = {106647},
+  year      = {2022},
+  url       = {https://doi.org/10.1016/j.compag.2021.106647},
+  doi       = {10.1016/j.compag.2021.106647},
+  timestamp = {Tue, 08 Mar 2022 00:00:00 +0100},
+  biburl    = {https://dblp.org/rec/journals/cea/LiaoYZWW22.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+

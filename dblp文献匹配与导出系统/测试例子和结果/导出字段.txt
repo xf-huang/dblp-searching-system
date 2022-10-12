@@ -1,0 +1,201 @@
+machine learning application:
+
+
+@phdthesis{DBLP:phd/us/Colgan22,
+  author    = {Robert E. Colgan},
+  title     = {Machine Learning for Gravitational-Wave Astronomy: Methods and Applications
+               for High-Dimensional Laser Interferometry Data},
+  url       = {https://doi.org/10.7916/vqz7-1t18},
+  doi       = {10.7916/vqz7-1t18},
+
+@article{DBLP:journals/access/Al-AzaniSA22,
+  author    = {Sadam Al{-}Azani and
+               Sadiq M. Sait and
+               Khaled Abdul{-}Aziz Al{-}Utaibi},
+  title     = {A Comprehensive Literature Review on Children's Databases for Machine
+               Learning Applications},
+  url       = {https://doi.org/10.1109/ACCESS.2022.3146008},
+  doi       = {10.1109/ACCESS.2022.3146008},
+
+@article{DBLP:journals/access/JiangLGWLCLZ22,
+  author    = {Yuying Jiang and
+               Guangming Li and
+               Hongyi Ge and
+               Faye Wang and
+               Li Li and
+               Xinyu Chen and
+               Ming Lu and
+               Yuan Zhang},
+  title     = {Machine Learning and Application in Terahertz Technology: {A} Review
+               on Achievements and Future Challenges},
+  url       = {https://doi.org/10.1109/ACCESS.2022.3174595},
+  doi       = {10.1109/ACCESS.2022.3174595},
+
+@article{DBLP:journals/access/MoradzadehMAAR22,
+  author    = {Arash Moradzadeh and
+               Behnam Mohammadi{-}Ivatloo and
+               Mehdi Abapour and
+               Amjad Anvari{-}Moghaddam and
+               Sanjiban Sekhar Roy},
+  title     = {Heating and Cooling Loads Forecasting for Residential Buildings Based
+               on Hybrid Machine Learning Applications: {A} Comprehensive Review
+               and Comparative Analysis},
+  url       = {https://doi.org/10.1109/ACCESS.2021.3136091},
+  doi       = {10.1109/ACCESS.2021.3136091},
+
+@article{DBLP:journals/access/ZhaoQJ22,
+  author    = {Yijun Zhao and
+               Man Qin and
+               April Jorge},
+  title     = {A Calibrated Ensemble Algorithm to Address Data Heterogeneity in Machine
+               Learning: An Application to Identify Severe {SLE} Flares in Lupus
+               Patients},
+  url       = {https://doi.org/10.1109/ACCESS.2022.3149477},
+  doi       = {10.1109/ACCESS.2022.3149477},
+
+@article{DBLP:journals/aci/FitzsimmonsDD22,
+  author    = {Lane Fitzsimmons and
+               Maya Dewan and
+               Judith W. Dexheimer},
+  title     = {Diversity in Machine Learning: {A} Systematic Review of Text-Based
+               Diagnostic Applications},
+  url       = {https://doi.org/10.1055/s-0042-1749119},
+  doi       = {10.1055/s-0042-1749119},
+
+@article{DBLP:journals/acisc/ChungT22,
+  author    = {Jetli Chung and
+               Jason Teo},
+  title     = {Mental Health Prediction Using Machine Learning: Taxonomy, Applications,
+               and Challenges},
+  url       = {https://doi.org/10.1155/2022/9970363},
+  doi       = {10.1155/2022/9970363},
+
+@article{DBLP:journals/aei/MirzaeiAAMBB22,
+  author    = {Kaveh Mirzaei and
+               Mehrdad Arashpour and
+               Ehsan Asadi and
+               Hossein Masoumi and
+               Yu Bai and
+               Ali Behnood},
+  title     = {3D point cloud data processing with machine learning for construction
+               and infrastructure applications: {A} comprehensive review},
+  url       = {https://doi.org/10.1016/j.aei.2021.101501},
+  doi       = {10.1016/j.aei.2021.101501},
+
+@article{DBLP:journals/aei/ZabinGZA22,
+  author    = {Asem Zabin and
+               Vicente A. Gonz{\'{a}}lez and
+               Yang Zou and
+               Robert Amor},
+  title     = {Applications of machine learning to {BIM:} {A} systematic literature
+               review},
+  url       = {https://doi.org/10.1016/j.aei.2021.101474},
+  doi       = {10.1016/j.aei.2021.101474},
+environmental science and technology:
+
+
+@article{DBLP:journals/gis/Jekel14,
+  author    = {Thomas Jekel},
+  title     = {Teaching science and investigating environmental issues with geospatial
+               technology: designing effective professional development for teachers,
+               by J. MaKinster, N. Trautmann, and M. Barnet},
+  url       = {https://doi.org/10.1080/13658816.2014.892603},
+  doi       = {10.1080/13658816.2014.892603},
+
+@inproceedings{DBLP:conf/hci/ChenC11,
+  author    = {Chun{-}Ching Chen and
+               Chien{-}Ming Chen},
+  title     = {The Application of Interactive Media Display Technology in Environmental
+               Science Learning},
+  url       = {https://doi.org/10.1007/978-3-642-22095-1\_97},
+  doi       = {10.1007/978-3-642-22095-1\_97},
+
+@article{DBLP:journals/synthese/Tiles09,
+  author    = {Mary Tiles},
+  title     = {Technology and the possibility of global environmental science},
+  url       = {https://doi.org/10.1007/s11229-008-9448-x},
+  doi       = {10.1007/s11229-008-9448-x},
+
+@inproceedings{DBLP:conf/gmvset/Jung92,
+  author    = {Volker Jung},
+  title     = {Visualization of Flow Simulation Data in Environmental Modeling},
+  url       = {https://doi.org/10.1007/978-3-642-77811-7\_6},
+  doi       = {10.1007/978-3-642-77811-7\_6},
+air pollution and risk:
+
+
+@article{DBLP:journals/urban/ZouLZZYW20,
+  author    = {Bin Zou and
+               Shenxin Li and
+               Zhong Zheng and
+               Benjamin F. Zhan and
+               Zhonglin Yang and
+               Neng Wan},
+  title     = {Healthier routes planning: {A} new method and online implementation
+               for minimizing air pollution exposure risk},
+  url       = {https://doi.org/10.1016/j.compenvurbsys.2019.101456},
+  doi       = {10.1016/j.compenvurbsys.2019.101456},
+
+@inproceedings{DBLP:conf/iscram-med/AnezakisIDM17,
+  author    = {Vardis{-}Dimitris Anezakis and
+               Lazaros S. Iliadis and
+               Konstantinos Demertzis and
+               Georgios Mallinis},
+  title     = {Hybrid Soft Computing Analytics of Cardiorespiratory Morbidity and
+               Mortality Risk Due to Air Pollution},
+  url       = {https://doi.org/10.1007/978-3-319-67633-3\_8},
+  doi       = {10.1007/978-3-319-67633-3\_8},
+
+@inproceedings{DBLP:conf/snpd/DickenRNKRRR15,
+  author    = {Ruhul Amin Dicken and
+               S. A. M. Fazle Rubby and
+               Sheefta Naz and
+               A. M. Arefin Khaled and
+               Shuvo Ashish Rahman and
+               Sharmina Rahman and
+               Rashedur M. Rahman},
+  title     = {Analysis and classification of respiratory health risks with respect
+               to air pollution levels},
+  url       = {https://doi.org/10.1109/SNPD.2015.7176184},
+  doi       = {10.1109/SNPD.2015.7176184},
+
+@inproceedings{DBLP:conf/fskd/WangC10,
+  author    = {Baozhen Wang and
+               Zhi Chen},
+  title     = {A GIS-based fuzzy aggregation modeling approach for air pollution
+               risk assessment},
+  url       = {https://doi.org/10.1109/FSKD.2010.5569147},
+  doi       = {10.1109/FSKD.2010.5569147},
+
+@inproceedings{DBLP:conf/geoinformatics/ZouZQLZH10,
+  author    = {Bin Zou and
+               Yongnian Zeng and
+               Yonghong Qiu and
+               Huimin Liu and
+               Honghui Zhang and
+               Hailong Hu},
+  title     = {Spatial and temporal variations of air pollution exposure risk based
+               on Geo-information Technology Aided Proximity Model},
+  url       = {https://doi.org/10.1109/GEOINFORMATICS.2010.5568114},
+  doi       = {10.1109/GEOINFORMATICS.2010.5568114},
+ Could Petrol Stations Play a Key Role in Transportation Electrification? A GIS-Based Coverage Maximization of Fast EV Chargers in Urban Environment:
+
+
+@article{DBLP:journals/access/BayramZB22,
+  author    = {I. Safak Bayram and
+               Usman Zafar and
+               Sertac Bayhan},
+  title     = {Could Petrol Stations Play a Key Role in Transportation Electrification?
+               {A} GIS-Based Coverage Maximization of Fast {EV} Chargers in Urban
+               Environment},
+  url       = {https://doi.org/10.1109/ACCESS.2022.3149758},
+  doi       = {10.1109/ACCESS.2022.3149758},
+ Deep Learning Based Speech Quality Prediction:
+
+
+@book{DBLP:books/sp/Mittag22,
+  author    = {Gabriel Mittag},
+  title     = {Deep Learning Based Speech Quality Prediction},
+  url       = {https://doi.org/10.1007/978-3-030-91479-0},
+  doi       = {10.1007/978-3-030-91479-0},
+
